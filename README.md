@@ -32,4 +32,6 @@ Clique no arquivo "index.js" e veja a aplicação.
 [Sass/Style.scss](https://sass-lang.com/)
 
 Aplicação: 
+
+
 ![image](https://github.com/NathaliaFernandes28/Cronometro/assets/88513545/cfc0403a-f3c9-4ff5-943b-351bc570186a)
