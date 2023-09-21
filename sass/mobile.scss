@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  h1,
+  h2 {
+    text-align: center;
+    padding: 20px;
+  }
+  p {
+    text-align: center;
+    margin-top: 30px;
+  }
+  button {
+    text-align: center;
+    margin-left: 12%;
+    margin-bottom: 10%;
+    cursor: pointer;
+  }
+  #button-start,
+  #button-stop {
+    padding: 10px;
+    width: 100px;
+    margin-top: 15%;
+  }
+  #button-reset {
+    padding: 10px;
+    width: 100px;
+    margin-left: 8em;
+  }
+}

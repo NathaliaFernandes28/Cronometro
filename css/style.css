@@ -1,0 +1,70 @@
+body {
+  background-color: #13131f;
+}
+body h1,
+body h2 {
+  color: #fe343e;
+}
+body p {
+  color: #fe343e;
+}
+body button {
+  color: #fe343e;
+  border: 2px solid #fe343e;
+  background-color: #13131f;
+}
+body button:hover {
+  background-color: #fe343e;
+  color: #13131f;
+  transition: 0.5s;
+}
+
+body h1 {
+  font-family: "Red Hat Display", sans-serif;
+  font-size: 50px;
+}
+body h2 {
+  font-family: "Red Hat Display", sans-serif;
+}
+body p {
+  font-family: "Red Hat Display", sans-serif;
+  font-size: 40px;
+}
+body button {
+  font-family: "Red Hat Display", sans-serif;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body h1,
+body h2 {
+  text-align: center;
+  padding: 20px;
+}
+body p {
+  text-align: center;
+  margin-top: 30px;
+}
+body button {
+  text-align: center;
+  margin-left: 12%;
+  margin-bottom: 10%;
+  cursor: pointer;
+}
+body #button-start,
+body #button-stop {
+  padding: 10px;
+  width: 100px;
+  margin-top: 15%;
+}
+body #button-reset {
+  padding: 10px;
+  width: 100px;
+  margin-left: 8em;
+}
+
+/*# sourceMappingURL=style.css.map */
